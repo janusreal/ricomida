@@ -1,0 +1,46 @@
+
+
+  * {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  body{
+    padding: 0;
+    margin-0;
+  }
+
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #sub-footer{
+    background-color: #373A3C;
+    color: #fff
+  }
+
+  #franja-superior{
+    background-color: #373A3C;
+    min-height: 40px;
+  }
+
+
+
+nav{
+    background-color: #373A3C;
+  }
+
+li{
+    text-decoration: none;
+  }
+  
+  .custom-tooltip {
+    --bs-tooltip-bg: var(--bd-violet-bg);
+    --bs-tooltip-color: var(--bs-white);
+  }
