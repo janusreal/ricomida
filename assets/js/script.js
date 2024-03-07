@@ -12,7 +12,7 @@ $('#title2').on('dblclick', function () {
     $('#title2').toggleClass('text-danger')
 });
 
-$('.card-titlem,').on('click', function () {
+$('.card-title').on('click', function () {
     $('.card-text').toggle('d-none')
 })
 
